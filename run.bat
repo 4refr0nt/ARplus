@@ -1,0 +1,1 @@
+ionic run --device --info -s -c android

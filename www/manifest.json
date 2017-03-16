@@ -1,0 +1,14 @@
+{
+  "name": "ARplus",
+  "short_name": "ARplus",
+  "start_url": "index.html",
+  "xwalk_hosts": [
+    "http://192.168.4.1/"
+  ]
+  "display": "standalone",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

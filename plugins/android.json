@@ -1,0 +1,54 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "XWALK_VERSION": "23+",
+            "XWALK_LITEVERSION": "xwalk_core_library_canary:17+",
+            "XWALK_COMMANDLINE": "--disable-pull-to-refresh-effect",
+            "XWALK_MODE": "embedded",
+            "XWALK_MULTIPLEAPK": "true",
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-vuforia": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        },
+        "cordova-plugin-vuforia-sdk": {
+            "PACKAGE_NAME": "ru.lab4fun.arplus"
+        }
+    }
+}
